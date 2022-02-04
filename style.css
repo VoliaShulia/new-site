@@ -48,6 +48,7 @@ body {
 
 .hero-image {
   margin-bottom: 620px;
+  text-color: brown;
 }
 
 .hero-image .container {
@@ -90,6 +91,7 @@ body {
 .user-image {
   margin: 0 0 32px;
   text-align: center;
+  border-radius: 20%;
 }
 
 .intro h3,
@@ -198,6 +200,16 @@ body {
   background-image: url("img/icon-phone-footer.svg");
 }
 
+.the-most{
+  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  text-align: center;
+}
+
 .mur {
   text-align: center;
+  border-radius: 20%;
+}
+
+.text {
+  margin: 0 0 60px;
 }
