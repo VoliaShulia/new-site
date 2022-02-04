@@ -63,6 +63,11 @@ body {
   font-weight: 400;
 }
 
+.the-most {
+  font-family: serif;
+  text-align: center;
+}
+
 .hero-image p {
   margin: 0;
   font-size: 32px;
@@ -172,7 +177,7 @@ body {
 .page-footer {
   padding: 40px 0;
   background-color: #00417d;
-  color: #ffffff;
+  color: orange;
 }
 
 .page-footer a {
@@ -191,4 +196,8 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+
+.mur {
+  text-align: center;
 }
