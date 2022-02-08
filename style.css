@@ -20,7 +20,6 @@ body {
 .page-header {
   margin: 0 0 160px;
   padding: 32px 0 32px;
-  border-bottom: solid;
 }
 
 .page-header .container,
@@ -38,11 +37,13 @@ body {
 }
 
 .header-email {
+  color: #211A04;
   padding-left: 30px;
   background-image: url("img/icon-email-header.svg");
 }
 
 .header-phone {
+  color: #211A04;
   padding-left: 25px;
   background-image: url("img/icon-phone-header.svg");
 }
@@ -50,6 +51,7 @@ body {
 .hero-image {
   margin-bottom: 100px;
   text-color: brown;
+  background-color: #262110;
 }
 
 .hero-image .container {
@@ -179,8 +181,8 @@ body {
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
-  color: orange;
+  background-color: #998441;
+  color: #998441;
 }
 
 .page-footer a {
