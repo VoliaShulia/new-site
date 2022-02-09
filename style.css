@@ -17,7 +17,6 @@ body {
 }
 
 .page-header {
-  background-color: #262110;
   margin: 0 0 160px;
   padding: 32px 0 32px;
 }
@@ -30,27 +29,24 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: #211A04;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
 }
 
 .header-email {
-  color: #211A04;
   padding-left: 30px;
   background-image: url("img/icon-email-header.svg");
 }
 
 .header-phone {
-  color: #211A04;
   padding-left: 25px;
   background-image: url("img/icon-phone-header.svg");
 }
 
 .hero-image {
   margin-bottom: 100px;
-  text-color: brown;
   background-color: #262110;
 }
 
@@ -61,6 +57,7 @@ body {
 .hero-image .container {
   max-width: 1408px;
   text-align: center;
+  color: #F0EEFF;
 }
 
 .heading {
@@ -186,7 +183,6 @@ body {
 .page-footer {
   padding: 40px 0;
   background-color: #998441;
-  color: #998441;
 }
 
 .page-footer a {
@@ -210,6 +206,7 @@ body {
 .the-most{
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
   text-align: center;
+  color: white;
 }
 
 .mur {
@@ -219,4 +216,10 @@ body {
 
 .text {
   margin: 0 0 60px;
+}
+
+.user-image2 {
+  margin: 0 0 32px;
+  text-align: center;
+  border-radius: 60%;
 }
