@@ -29,7 +29,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #E38017;
+  color: #FF5F00;
   font-weight: bold;
   text-decoration: none;
   background-repeat: no-repeat;
@@ -222,5 +222,6 @@ body {
 .user-image2 {
   margin: 0 0 32px;
   text-align: center;
+  height: 800px;
   border-radius: 60%;
 }
