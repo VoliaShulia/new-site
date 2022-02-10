@@ -5,6 +5,7 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #222222;
+  background-image: url("img/1.jpeg");
   background-color: #f2f4f6;
   background-repeat: no-repeat;
   background-position: top center;
@@ -48,12 +49,7 @@ body {
 
 .hero-image {
   margin-bottom: 100px;
-  background-color: #262110;
 }
-
-body {
-  background-image: url("img/1.jpeg");
-  }
 
 .hero-image .container {
   max-width: 1408px;
